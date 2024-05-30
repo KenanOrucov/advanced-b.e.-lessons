@@ -3,5 +3,3 @@ I edit this line
 This is my third line
 
 I will try amend
-
-i try interactive rebase
